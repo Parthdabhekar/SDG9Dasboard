@@ -1,1 +1,1 @@
-# SDG9Dasboard
+I took part in a collaborative project aimed at exploring industrial sustainability and innovation metrics related to SDG Goal 9 (Industry, Innovation, and Infrastructure). Our efforts included analyzing and visualizing Eurostat data using Tableau to assess air emissions intensity, the impact of environmental goods and services, and research and development investment trends across European nations. The team produced meaningful insights to advocate for sustainable industrial growth and proposed data-informed recommendations for policy and business strategies.
